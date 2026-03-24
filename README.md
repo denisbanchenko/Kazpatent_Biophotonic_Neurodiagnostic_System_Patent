@@ -1,7 +1,7 @@
-# 🧬 Biophotonic Optical Neurodiagnostic System / Биофотонная Оптическая Нейродиагностическая Система
+# 🧬 Biophotonic Patent Portfolio / Патентный Портфель Biophotonic
 
-> **English:** Passive biophotonic eye emission reading for brain activity monitoring  
-> **Русский:** Пассивное считывание биофотонных эмиссий глаза для мониторинга активности мозга
+> **English:** Biophotonic Optical Neurodiagnostic System
+> **Русский:** Биофотонная оптическая нейродиагностическая система
 
 ---
 
@@ -15,8 +15,8 @@
 | **Patent Office / Патентное ведомство** | Kazpatent (NIIS, Ministry of Justice of RK) / Казпатент (НИИС, МЮ РК) |
 | **Country / Страна** | Republic of Kazakhstan / Республика Казахстан |
 | **Inventors / Изобретатели** | 3 (🇰🇿 KZ, 🇲🇩 MD, 🇩🇪 DE) |
+| **IPC Classification / МПК** | A61N (Medical Devices / Медицинские устройства) |
 | **Language / Язык** | Russian (Official), English (Translation) / Русский (Официальный), Английский (Перевод) |
-| **Repository Access / Доступ** | 🔒 Private (Confidential) / Закрытый (Конфиденциально) |
 
 ---
 
