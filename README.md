@@ -1,6 +1,6 @@
 # 🧬 Biophotonic Patent Portfolio / Патентный Портфель Biophotonic
 
-> **English:** Biophotonic Optical Neurodiagnostic System
+> **English:** Biophotonic Optical Neurodiagnostic System  
 > **Русский:** Биофотонная оптическая нейродиагностическая система
 
 ---
