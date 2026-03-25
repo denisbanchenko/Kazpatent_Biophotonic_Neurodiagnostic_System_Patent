@@ -85,11 +85,25 @@
 
 ## 👥 Inventors / Изобретатели
 
-| # | Name / ФИО | Country / Страна | IIN / ИИН | Role / Роль |
-|---|------------|-----------------|-----------|------------|
-| 1 | **Банченко Денис Юрьевич / Banchenko Denis Yurievich** | 🇰🇿 KZ | 800622301483 | Applicant, Inventor / Заявитель, Изобретатель |
-| 2 | **Овсянникова Валерия Александровна / Ovseannicova Valeria Alexandrovna** | 🇲🇩 MD | 001228050911 | Applicant, Inventor / Заявитель, Изобретатель |
-| 3 | **Капустин Михайло Михайлович / Kapustin Mykhailo Mykhailovich** | 🇩🇪 DE | 000623050976 | Applicant, Inventor / Заявитель, Изобретатель |
+**All inventors are equal co-authors / Все изобретатели являются равными соавторами**
+
+| # | Name / ФИО | Country / Страна | IIN / ИИН | Email | Role / Роль |
+|---|------------|-----------------|-----------|-------|------------|
+| 1 | **OVSEANNICOVA VALERIA ALEXANDROVNA / ОВСЯННИКОВА ВАЛЕРИЯ АЛЕКСАНДРОВНА** | 🇲🇩 MD | 001228050911 | valeriaovseannicova@asrp.tech | Applicant, Inventor / Заявитель, Изобретатель |
+| 2 | **BANCHENKO DENIS YURIEVICH / БАНЧЕНКО ДЕНИС ЮРЬЕВИЧ** | 🇰🇿 KZ | 800622301483 | denisbanchenko@asrp.tech | Applicant, Inventor / Заявитель, Изобретатель |
+| 3 | **KAPUSTIN MYKHAILO MYKHALOVICH / КАПУСТИН МИХАЙЛО МИХАЙЛОВИЧ** | 🇩🇪 DE | 000623050976 | mykhailokapustin@asrp.tech | Applicant, Inventor / Заявитель, Изобретатель |
+
+**Corporate Contact / Корпоративный контакт:** info@asrp.tech
+
+**Correspondence Address / Адрес для переписки:**
+```
+ТОО "Перспективные Научно-Исследовательские Разработки"
+УЛИЦА Комарова 37, 56
+КЫЗЫЛОРДИНСКАЯ ОБЛАСТЬ, БАЙКОНУР
+Республика Казахстан, 468320
+Телефон: +77059131157
+E-mail: info@asrp.tech
+```
 
 ---
 
@@ -97,11 +111,11 @@
 
 ### Incoming / Входящие (Kazpatent / Казпатент)
 
-| Date / Дата | Document / Документ | Barcode / Штрихкод | Status / Статус |
-|-------------|-------------------|-------------------|-----------------|
-| 06.01.2026 | Formal Exam Request #1 / Запрос №1 | 3805316 | ✅ Received / Получено |
-| 06.02.2026 | Formal Exam Request #2 / Запрос №2 | 3845793 | ✅ Received / Получено |
-| 18.03.2026 | Positive Formal Result / Положительный результат | 3900450 | ✅ Received / Получено |
+| Date / Дата | Document / Документ | Barcode / Штрихкод | Direct Link / Прямая Ссылка |
+|-------------|-------------------|-------------------|----------------------------|
+| 06.01.2026 | Formal Exam Request #1 / Запрос №1 | 3805316 | [📄 PDF](https://github.com/denisbanchenko/Kazpatent_Biophotonic_Neurodiagnostic_System_Patent/blob/main/correspondence/incoming/2025-11-XX_Incoming_KZ2025-1097.1_Barcode3804014.pdf) |
+| 06.02.2026 | Formal Exam Request #2 / Запрос №2 | 3845793 | [📄 PDF](correspondence/incoming/) |
+| 18.03.2026 | Positive Formal Result / Положительный результат | 3900450 | [🇬🇧 EN](https://github.com/denisbanchenko/Kazpatent_Biophotonic_Neurodiagnostic_System_Patent/blob/main/translations/2026-03-18_PositiveFormalResult_EN_RU.md) |
 
 ---
 
