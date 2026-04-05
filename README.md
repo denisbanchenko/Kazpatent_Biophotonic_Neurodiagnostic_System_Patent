@@ -93,9 +93,9 @@ timeline
 | Category / Категория | Total / Всего | Uploaded / Загружено | Progress / Прогресс |
 |---------------------|---------------|---------------------|---------------------|
 | **Application Documents / Документы заявки** | 5 | 5 | 100% |
-| **Correspondence / Переписка** | 4 | 4 | 100% |
+| **Correspondence / Переписка** | 5 | 5 | 100% |
 | **Payment Records / Платежи** | 1 | 1 | 100% |
-| **TOTAL / ИТОГО** | **10** | **10** | **100%** |
+| **TOTAL / ИТОГО** | **11** | **11** | **100%** |
 
 ---
 
@@ -132,6 +132,12 @@ E-mail: info@asrp.tech
 | 06.01.2026 | Formal Exam Request #1 / Запрос №1 | 3804014 | [PDF](correspondence/incoming/2026-01-06_Incoming_KZ2025-1097.1_FormalExamQuery_Barcode3804014.pdf) |
 | 06.02.2026 | Formal Exam Request #2 / Запрос №2 | 3845793 | [PDF](correspondence/incoming/) |
 | 18.03.2026 | Positive Formal Result / Положительный результат | 3900450 | [EN](https://github.com/denisbanchenko/Kazpatent_Biophotonic_Neurodiagnostic_System_Patent/blob/main/translations/2026-03-18_PositiveFormalResult_EN_RU.md) |
+
+### Outgoing / Исходящие
+
+| Date / Дата | Document / Документ | Direct Link / Прямая Ссылка |
+|-------------|-------------------|----------------------------|
+| 04.04.2026 | Response to Formal Exam Query Iskh 35 / Ответ на запрос ФЭ Исх. 35 | [PDF](correspondence/outgoing/2026-04-04_Outgoing_KZ2025-1097.1_ResponseToFormalExamQuery_Iskh35.pdf) |
 
 ---
 
@@ -180,6 +186,7 @@ Kazpatent_Biophotonic_Neurodiagnostic_System_Patent/
 │   │   ├── 2025-11-XX_Incoming_KZ2025-1097.1_Barcode3804014.pdf
 │   │   └── 2026-01-06_Incoming_KZ2025-1097.1_FormalExamQuery_Barcode3804014.pdf
 │   └── outgoing/
+│       └── 2026-04-04_Outgoing_KZ2025-1097.1_ResponseToFormalExamQuery_Iskh35.pdf
 ├── docs/
 │   ├── DOCUMENT_INDEX_EN_RU.md
 │   ├── abstracts/
@@ -261,7 +268,7 @@ Kazpatent_Biophotonic_Neurodiagnostic_System_Patent/
 
 <div align="center">
 
-**Last Updated / Последнее обновление:** 22 March 2026 / 22 марта 2026  
+**Last Updated / Последнее обновление:** 05 April 2026 / 05 апреля 2026  
 **Repository / Репозиторий:** `Kazpatent_Biophotonic_Neurodiagnostic_System_Patent`  
 **Standard / Стандарт:** Fully Bilingual EN_RU / Полностью двуязычный
 
